@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esther Rani</h1>
 <h3 align="center"> python developer </h3>
 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esther023&label=Profile%20views&color=0e75b6&style=flat" alt="esther023" /> </p>
 
 - 🌱 I’m currently learning **python**
